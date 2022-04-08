@@ -1,0 +1,33 @@
+#Titulo{
+    color:rgb(17, 40, 141);
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 300;
+}
+
+#Titulo2{
+    color:rgb(120, 189, 15);
+    font-family: 'Open Sans';
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+.principal
+{
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+}
+
+.box-1
+{
+
+width: 500px;
+height: 500px;
+}
+.box-2
+{
+    width: 500px;
+    height: 500px;
+}
